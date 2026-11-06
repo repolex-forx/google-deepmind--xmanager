@@ -1,0 +1,11 @@
+{
+  "org": "google-deepmind",
+  "repo": "xmanager",
+  "versions": [
+    {
+      "commit": "25ea8d54a9677997165c5aa9bf5832275dd53c8c",
+      "tag": "",
+      "parsed_at": "2026-11-06T15:55:34.554276+00:00"
+    }
+  ]
+}
